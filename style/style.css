@@ -13,3 +13,28 @@ body {
     background-color: white;
     padding: 1% 1%;
 }
+
+.container {
+    height: 30px;
+    background-color: white;
+    border-radius: 2%;
+    max-width: 70%;
+    margin: 4% auto;
+}
+
+.elements {
+    padding: 1% 2%;
+}
+
+input {
+    text-align: center;
+    border-radius: 10%;
+    width: 90px;
+    border: 1px solid #c4cbd0;
+}
+
+div .task {
+    width: 80px;
+    background-color: #14aaf5;
+
+}
