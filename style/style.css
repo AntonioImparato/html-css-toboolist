@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    height: 30px;
+    height: 50px;
     background-color: white;
     border-radius: 8% 8% 0% 0%;
     max-width: 70%;
@@ -48,10 +48,12 @@ body {
     padding-top: 2%;
 }
 
-input {
+.button-header {
+    font-size: 12px;
     text-align: center;
     border-radius: 10%;
-    width: 90px;
+    width: 80px;
+    padding: 1%;
     border: 1px solid #c4cbd0;
     background-color: white;
 
@@ -79,8 +81,8 @@ li {
 }
 
 .check {
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
     border: 2px solid #39cab0;
     text-align: center;
     border-radius: 50%;
@@ -117,6 +119,7 @@ li {
     height: 20px;
     font-size: 10px;
     color: white;
+    border: none;
 }
 
 .button-color-09a9ed {
