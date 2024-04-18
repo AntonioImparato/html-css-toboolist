@@ -80,36 +80,33 @@ li {
     height: 30px;
 }
 
-.check {
-    height: 80px;
-    width: 80px;
-    border: 2px solid #39cab0;
-    text-align: center;
-    border-radius: 50%;
-    line-height: 50px;
-    display: inline;
-    margin-right: 2px;
-    font-size: 10px;
-
-
-}
-
 .submit-right {
     display: inline;
 
 }
 
-.cross {
-    color: red;
+.circle {
     height: 50px;
     width: 50px;
-    border: 2px solid red;
     text-align: center;
     border-radius: 50%;
     line-height: 50px;
     display: inline;
     margin-right: 2px;
     font-size: 10px;
+
+}
+
+.check {
+
+    border: 2px solid #39cab0;
+
+
+}
+
+.cross {
+    color: red;
+    border: 2px solid red;
 }
 
 .button {
